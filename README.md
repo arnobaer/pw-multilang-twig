@@ -21,4 +21,4 @@ This site profile contains the following dependent modules:
 
 ## Install
 
-Upload ProcessWire files to your web host, copy the `site-multilang-twig` `folder to your files and navigate to the URL in your web browser. Follow the installation process and select `PW Multi-Language Template with Twig` from the profile select menu.
+Upload ProcessWire files to your web host, copy the `site-multilang-twig` directory to your files and navigate to the URL in your web browser. Follow the installation process and select `PW Multi-Language Template with Twig` from the profile select menu.
